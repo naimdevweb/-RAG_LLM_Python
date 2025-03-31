@@ -54,6 +54,11 @@ windows:
    python chatbot.py
    ```
 
+to stop:
+   ```bash
+   "exit"
+   ```
+
 ## Structure du projet
 
 - `data/` : Contient les données source (bien pense a gitIgnore si donnée sensible).
