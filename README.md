@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 2. Exécutez le script de création de la base de données :
 
+attendre que le script fasse la DB (ça peux être long)
 
 linux:
    ```bash
@@ -55,7 +56,7 @@ windows:
 
 ## Structure du projet
 
-- `data/` : Contient les données source.
+- `data/` : Contient les données source (bien pense a gitIgnore si donnée sensible).
 - `chroma/` : Base de données vectorielle.
 - `indexationPhase.py` : Script de création de la base de données.
 - `chatbot.py` : Script d'interrogation du chatbot.
