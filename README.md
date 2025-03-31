@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 2. Exécutez le script de création de la base de données :
 
-attendre que le script fasse la DB (ça peux être long)
+- attendre que le script fasse la DB (ça peux être long)
 
 linux:
    ```bash
