@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 2. Exécutez le script de création de la base de données :
 
+
 linux:
    ```bash
    python3 indexationPhase.py
@@ -40,6 +41,7 @@ windows:
    ```
 
 3. Parler avec le chatbot :
+
 
 linux: 
    ```bash
